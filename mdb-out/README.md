@@ -1,4 +1,6 @@
 # 資料庫位置外洩  
+[<<回前頁>>](https://github.com/William957-web/SGGScyber)
+
 ## 詳情:  
 觀察  
 ```
