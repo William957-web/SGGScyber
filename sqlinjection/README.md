@@ -1,4 +1,5 @@
 # 管理系統可被公告id=注入sql
+[<<回前頁>>](https://github.com/William957-web/SGGScyber)
 ## 詳情:
 隨便以一篇文章網址做為範例:http://www.sggs.hc.edu.tw:8080/news2/view.asp?ID=6843  
 可以被使用sqlmap這類的工具直接進行注入，進而取得公告管理員帳號密碼  
