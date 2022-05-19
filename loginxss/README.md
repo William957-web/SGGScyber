@@ -1,4 +1,6 @@
 # 登入系統xss漏洞問題  
+[<<回前頁>>](https://github.com/William957-web/SGGScyber)
+
 ## 詳情:  
 觀察登入系統網址: http://www.sggs.hc.edu.tw:8080/news2/admin.asp?post_group=&post_team=  
 若將連結改為: [http://www.sggs.hc.edu.tw:8080/news2/admin.asp?post_group="><script>alert("xss")</script>&post_team=](http://www.sggs.hc.edu.tw:8080/news2/admin.asp?post_group="><script>alert("xss")</script>&post_team=)  
