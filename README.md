@@ -5,7 +5,7 @@
 歡迎討論！！！  
 陸續會有內容在下方:  
 ## 澄清：
-一切合法處理，也請瀏覽者不要越界!！！  
+一切合法處理，也請瀏覽者不要越界!！牢飯三餐一湯！！  
 ## 漏洞們：
 ### 嚴重!!!:   
 sql入侵漏洞:https://github.com/William957-web/SGGScyber/tree/main/sqlinjection  
