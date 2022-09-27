@@ -12,6 +12,7 @@ sql入侵漏洞:https://github.com/William957-web/SGGScyber/tree/main/sqlinjecti
 資料庫位置外漏:https://github.com/William957-web/SGGScyber/tree/main/mdb-out  
 部分資料外洩:https://github.com/William957-web/SGGScyber/tree/main/data-release  
 預設密碼易遭破解:https://github.com/William957-web/SGGScyber/tree/main/weakpass  
+學生可更改自己的成績:https://github.com/William957-web/SGGScyber/tree/main/stu_sys_weak  
 ### 普通:
 學生成績系統可以在登入狀態下查詢他人成績:https://github.com/William957-web/SGGScyber/tree/main/student_affair_system
 ### 一般:    
