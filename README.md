@@ -5,7 +5,7 @@
 歡迎討論！！！  
 陸續會有內容在下方:  
 ## 學校網頁的基礎
-PORT 80:PHP  
+PORT 80:Apache/2.2.8 (Win32) PHP/5.2.6  
 PORT 8080:ASP.NET(Microsoft frontpage 98)
 ## 澄清：
 一切合法處理，也請瀏覽者不要越界!！牢飯三餐一湯！！  
