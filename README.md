@@ -6,7 +6,7 @@
 陸續會有內容在下方:  
 ## 學校網頁的基礎
 PORT 80:PHP  
-PORT 8080:ASP.NET
+PORT 8080:ASP.NET(Microsoft frontpage 98)
 ## 澄清：
 一切合法處理，也請瀏覽者不要越界!！牢飯三餐一湯！！  
 ## 漏洞們：
