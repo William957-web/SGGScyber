@@ -1,9 +1,15 @@
 import requests
 import pymongo
-
+import dotenv
+import os
+import random
+dotenv.load_dotenv(override=True)
 # Connect to MongoDB
 
-client = pymongo.MongoClient("mongodb+srv://yoni:<password>@cluster0.4b6it9r.mongodb.net/?retryWrites=true&w=majority")
+client = pymongo.MongoClient(os.getenv('db'))
 failed = client['failed'].failed
 success = client['success'].success
-proxies = client['proxies'].proxies
+
+def run():
+    radom = ''.join(["{}".format(random.randint(0, 9)) for num in range(0, 6)])
+    result = requests.post('',data={'txtName':''})
