@@ -21,8 +21,8 @@ sql入侵漏洞:https://github.com/William957-web/SGGScyber/tree/main/sqlinjecti
 ### 普通:
 學生成績系統可以在登入狀態下查詢他人成績:https://github.com/William957-web/SGGScyber/tree/main/student_affair_system
 ### 一般:    
-圖書館查詢xss漏洞:https://github.com/William957-web/SGGScyber/tree/main/libraryxss  
-登入網址xss漏洞:https://github.com/William957-web/SGGScyber/tree/main/loginxss  
+圖書館查詢xss漏洞(已修補):https://github.com/William957-web/SGGScyber/tree/main/libraryxss  
+登入網址xss漏洞(未完全修補）:https://github.com/William957-web/SGGScyber/tree/main/loginxss  
 教室預定系統錯誤:https://github.com/William957-web/SGGScyber/tree/main/classroombooking
  
  
