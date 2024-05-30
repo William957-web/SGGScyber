@@ -1,3 +1,4 @@
+// https://cs.sggs.hc.edu.tw/csnskj/choice.asp
 // https://cs.sggs.hc.edu.tw/csnskj/func/Super.js
 
 var msg = "密碼通過的訊息.";
@@ -40,7 +41,7 @@ function checkpassword() {
 		if (confirm(msg)) window.open("superlog.asp", "newWin", newwinsty1);
 	}
 }
-
+// GPT4o
 // This JavaScript code is designed to open a new window with specific properties if a predefined sequence of keypresses matches a password sequence. Here's a detailed breakdown of what each part of the code does:
 
 // 1. **Variables Initialization:**
